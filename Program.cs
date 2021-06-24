@@ -12,29 +12,29 @@ namespace Lesson_3_HWS_BasicArrays
         {
             #region Qst 1
 
-            //int[] myArr = new int[10];
-            //int counter = 0;
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter++] = int.Parse(Console.ReadLine());
-            //myArr[counter] = int.Parse(Console.ReadLine());
+            int[] myArr = new int[10];
+            int counter = 0;
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter++] = int.Parse(Console.ReadLine());
+            myArr[counter] = int.Parse(Console.ReadLine());
 
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
-            //Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
+            Console.WriteLine(myArr[counter--]);
 
             #endregion
 
