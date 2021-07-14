@@ -115,10 +115,6 @@ namespace Lesson_3_HWS_BasicArrays
             Console.WriteLine(sum / grades.Length);
 
             #endregion
-        
-            #region N
-            string s = "test";
-            #endregion
         }
     }
 }
